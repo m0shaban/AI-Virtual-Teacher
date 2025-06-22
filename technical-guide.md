@@ -1,27 +1,9 @@
-# AI-Virtual-Teacher
-
 # 🤖 AI Virtual Teacher - معلم ذكي افتراضي
 
 [![Gradio](https://img.shields.io/badge/Gradio-4.16.0-orange)](https://gradio.app/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
-## 📖 Overview | نظرة عامة
-
-AI Virtual Teacher is an interactive educational platform that provides personalized learning experiences using advanced AI models. The application supports both English and Arabic languages and offers various teaching specializations.
-
-معلم ذكي افتراضي هو منصة تعليمية تفاعلية توفر تجارب تعلم مخصصة باستخدام نماذج الذكاء الاصطناعي المتقدمة. التطبيق يدعم اللغتين الإنجليزية والعربية ويقدم تخصصات تدريسية متنوعة.
-
-## ✨ Features | المميزات
-
-- 🌐 **Bilingual Support**: English and Arabic interface
-- 🎯 **Multiple AI Models**: Choose from various LLM models
-- 👨‍🏫 **Teacher Specializations**: Different subject experts
-- 🎨 **Modern UI/UX**: Beautiful and intuitive interface
-- 🔊 **Audio Features**: Text-to-speech capabilities
-- 📱 **Responsive Design**: Works on all devices
-- 🚀 **Easy Deployment**: Deploy to Hugging Face Spaces
 
 ## 🚀 Quick Start | البدء السريع
 
